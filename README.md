@@ -1,3 +1,4 @@
 # ct-project
-# author : Akash Thakur
-# description : Its a GIT project
+# author : Akash Janardan Thakur
+# description : Its a GIT project for CitiusTech
+
